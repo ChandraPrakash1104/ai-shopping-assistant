@@ -1,0 +1,9 @@
+id,title,description,price,brand,image_url
+1,Red Running Shoe,Lightweight running shoe with cushioned sole,3499,Nike,https://example.com/img1.jpg
+2,Black Formal Shoe,Genuine leather formal shoes,4599,Clarks,https://example.com/img2.jpg
+3,Blue Sports T-shirt,Moisture-wicking sports t-shirt,899,Adidas,https://example.com/img3.jpg
+4,Wireless Headphones,Noise-cancelling over-ear headphones,6999,Sony,https://example.com/img4.jpg
+5,Smartwatch X,Basic smartwatch with heart-rate monitor,2999,Xiaomi,https://example.com/img5.jpg
+6,Trail Running Shoe,Rugged outsole for trail runs,4999,Asics,https://example.com/img6.jpg
+7,White Sneakers,Classic casual sneakers,1999,Converse,https://example.com/img7.jpg
+8,Black Hoodie,Comfortable cotton hoodie,1299,H&M,https://example.com/img8.jpg
